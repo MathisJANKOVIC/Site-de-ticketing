@@ -1,0 +1,43 @@
+th{
+    
+    margin: 5px;
+    background-color: rgb(233, 238, 238);
+}  
+    
+
+td{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+    text-align: center;
+    padding: 4px;
+    
+}
+
+table{
+    width: 20px;
+    text-align: center;
+    
+
+}
+
+body{
+    background-color: lightsteelblue;
+    text-align: center;
+    font-weight: normal;
+    
+}
+
+input{
+    border:  solid blue;
+    width: 15px;
+    padding: 8px;
+    outline: none;
+    letter-spacing: 0px;
+    border-radius: 10px;
+    text-align: center;
+}
+form{
+    background-color: white 50px;
+
+}

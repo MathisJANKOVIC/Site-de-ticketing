@@ -1,0 +1,19 @@
+
+body{
+    background-color: lightsteelblue;
+    text-align: center;
+    font-weight: lighter;
+    
+}
+
+input{
+    border: 3px solid rgb(4, 89, 180);
+    width: 15%;
+    padding: 8px 6px;
+    outline: none;
+    border-radius: 10px;
+}
+form{
+    background-color: white 50px;
+
+}
